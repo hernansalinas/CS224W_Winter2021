@@ -17,3 +17,5 @@ I learned a lot in this course.
 
 
 https://snap.stanford.edu/class/cs224w-2023/
+
+https://www.cs.cornell.edu/home/kleinber/networks-book/
