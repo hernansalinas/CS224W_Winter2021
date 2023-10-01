@@ -15,3 +15,5 @@ I learned a lot in this course.
 
 “Was that life? Well then, once more!” - Friedrich Nietzsche
 
+
+https://snap.stanford.edu/class/cs224w-2023/
